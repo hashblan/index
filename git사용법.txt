@@ -1,0 +1,4 @@
+git clone
+git add . / git add "파일명.확장자"
+git commit -m "메시지 내용"
+git push
